@@ -2,13 +2,13 @@
 <img align='right' src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100"> 
 <br/>
 
-- 🔭 I’m currently working on getting my shit together.
-- 🔮 What do I do? - Predict the future via computer science black magic.
-- 🌱 I’m currently working on upskilling my Web Development skills.
-- 👯 I’m looking to collaborate on Web Development related projects.
-- 💬 Ask me about: anything but my life.
-- 😄 Pronouns: built/different
-- 📚 6 Words that best sum me up: Music, Games, Memes, Anime, Minimalism, Perfectionism.
+- 🔭 Currently working on: Personal and professional development, with a focus on web technologies.
+- 🔮 What I do: Explore and build solutions at the intersection of creativity and computer science.
+- 🌱 Learning: Deepening my skills in modern Web Development (JavaScript, React, Node.js, etc.).
+- 👯 Looking to collaborate on: Open-source or personal projects related to Web Development and UI/UX.
+- 💬 Ask me about: Web tech, side projects, or anything tech-related.
+- 😄 Pronouns: he/him
+- 📚 Interests: Music, Gaming, Memes, Anime, Minimalism, and striving for Perfection.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 
